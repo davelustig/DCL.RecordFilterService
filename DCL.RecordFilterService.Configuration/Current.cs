@@ -9,7 +9,7 @@ namespace DCL.RecordFilterService.Configuration
         private static CustomFilterServiceSection _customFilterServiceConfig = null;
 
         /// <summary>
-        /// Object representing the entire section of configuration information for the CustomFilterService
+        /// Object representing the entire section of configuration information for the CustomFilterService.
         /// </summary>
         public static CustomFilterServiceSection CustomFilterServiceConfig
         {
